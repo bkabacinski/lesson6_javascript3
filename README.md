@@ -4,19 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 8, 2017
 
 ### Student Name:  
-(First and Last Name)
+Bridget Kabacinski
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project involves inserting images into the photo gallery and making the gallery interactive for the user while learning about the Document 
+Object Model.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bkabacinski.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Dynamic HTML is a combination of HTML, CSS and Javascript that allows for smooth interaction between the user and web page.
+2. An element can be accessed by its id value by setting the id value in HTML then using the getElementById method in Javascript.
+3. CSS properties of an element can be accessed through the DOM using dot notation, which includes the element's style property and the name
+   of the CSS property.
